@@ -1,0 +1,5 @@
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile C:\Users\31936\.ssh\id_temp
+    IdentitiesOnly yes
