@@ -1,0 +1,14 @@
+{
+    "[java]": {
+        "editor.suggest.snippetsPreventQuickSuggestions": false
+    },
+    "jdk.jdkhome": "d:\\JDK\\jdk_21",
+    "java.configuration.runtimes": [],
+    "maven.settingsFile": "D:\\apache-maven-3.9.11\\conf\\settings.xml",
+    "git.enabled": true,
+    "git.path": "git",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "git.postCommitCommand": "none"
+}
