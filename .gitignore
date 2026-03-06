@@ -9,3 +9,8 @@ bin/
 .idea/
 .DS_Store
 *.log
+git-commit.ps1
+GIT_TROUBLESHOOTING.md
+trae-git-settings.json
+ssh-config
+setup-ssh.ps1
